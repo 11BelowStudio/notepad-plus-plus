@@ -1,6 +1,8 @@
-# Dracula for [Notepad++](https://notepad-plus-plus.org/)
+# ~~Dracula~~ Dracul*uhh...* for [Notepad++](https://notepad-plus-plus.org/)
 
 > A dark theme for [Notepad++](https://notepad-plus-plus.org/).
+
+shamelessly ripped off from the people who made the OG dracula theme.
 
 ![Screenshot](./screenshot.png)
 
